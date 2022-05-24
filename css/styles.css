@@ -182,7 +182,7 @@ footer {
 }
 
 .box__footer a:hover {
-    opacity: 0.8;
+    color: black;
 }
 
 .box__footer a .fab {
