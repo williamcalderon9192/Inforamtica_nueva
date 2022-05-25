@@ -62,68 +62,6 @@ nav a:hover {
     }
 }
 
-.general  {
-    display: grid;
-    place-content: center;
-    padding-left: 5rem;
-    padding-right: 5rem;
-    font-family: 'Libre Baskerville', serif;
-}
-
-
-.image {
-    height: 300px;
-    width: 500px;
-    padding-top: 1rem;
-    padding-right: 10rem;
-    padding-left: 24rem;
-    padding-bottom: 1rem;
-    display: flex;
-    place-content: center;
-}
-
-
-.titulo1 {
-    color: rgb(38, 67, 96);
-    padding: 1rem;
-    font-weight: 600;
-    display: flex;
-    place-content: center;
-    font-size: 25px;
-    font-family: 'Koulen', cursive;
-    letter-spacing: 3px;
-}
-
-.textosderecetas {
-    font-family: 'Libre Baskerville', serif;
-    margin: 0;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-} 
-
-.Subtitulo {
-    color: #0080ff;
-}
-
-.listadeingredientes {
-    font-size: 14px;
-}
-
-.general1  {
-    display: grid;
-    place-content: center;
-    padding-left: 5rem;
-    padding-right: 5rem;
-    font-family: 'Libre Baskerville', serif;
-}
-
-.general2  {
-    display: grid;
-    place-content: center;
-    padding-left: 5rem;
-    padding-right: 5rem;
-    font-family: 'Libre Baskerville', serif;
-}
 
 
 footer {
