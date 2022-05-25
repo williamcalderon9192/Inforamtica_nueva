@@ -68,8 +68,8 @@ footer {
     width: 100%;
     padding: 50px 0px;
     background-color: rgb(235, 214, 214);
-    -webkit-mask-image: url(/Image/footer.svg);
-    mask-image: url(/Image/footer.svg);
+    -webkit-mask-image: url(../Image/footer.svg);
+    mask-image: url(../Image/footer.svg);
     -webkit-mask-size: cover;
     mask-size: cover;
 }
