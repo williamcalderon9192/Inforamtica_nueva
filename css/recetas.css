@@ -146,10 +146,10 @@ footer {
     width: 100%;
     padding: 50px 0px 5px 0px;
     background-color: #edd2be;
-    -webkit-mask-image: url(../Image/footer.svg);
-    mask-image: url(../Image/footer.svg);
+    /*-webkit-mask-image: url(../Image/footer.webp);
+    mask-image: url(../Image/footer.webp);
     -webkit-mask-size: cover;
-    mask-size: cover;
+    mask-size: cover; */
 }
 
 .container__footer {
