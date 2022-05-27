@@ -1,13 +1,13 @@
-body {
+* {
     padding: 0;
     margin: 0;
+}
+
+body {
     font-family: 'Lato', sans-serif;
 }
 
-h5 {
-    margin: 0;
-    padding: 0;
-}
+/*Header*/
 
 a {
     margin-left: 15px;
@@ -61,6 +61,8 @@ nav a:hover {
     }
 }
 
+/*Recetas*/
+
 .general  {
     display: grid;
     place-content: center;
@@ -101,9 +103,16 @@ nav a:hover {
     margin-block-end: 1em;
 } 
 
+.Raciones {
+    margin: 5px 0px 5px 0px;
+
+}
 
 .listadeingredientes {
     font-size: 14px;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .subtitulo1 {
@@ -141,8 +150,10 @@ nav a:hover {
     place-content: center;
 }
 
+/*Footer*/
+
 footer {
-    height: 400px;
+    height: 350px;
     width: 100%;
     padding-bottom: 2px;
     background-color: #edd2be;
